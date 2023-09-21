@@ -190,6 +190,11 @@ footer {
   text-align: center;
 }
 
+footer small{
+  color: white;
+  text-align: center;
+}
+
 .loader {
   font-family: code;
   letter-spacing: 0.3em;
